@@ -4,3 +4,6 @@
 [submodule "content/publication/2019"]
 	path = content/publication/2019
 	url = git@github.com:HoriFujimotoLab/publicationlist2019.git
+[submodule "public"]
+	path = public
+	url = git@github.com:HoriFujimotoLab/horifujimotolab.github.io.git
