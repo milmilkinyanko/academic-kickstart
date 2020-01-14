@@ -50,8 +50,6 @@ subtitle = ""
  css_class = ""
 +++
 
-東京大学 堀・藤本研究室のPublication Listです.
 公式サイトは[こちら](http://hflab.k.u-tokyo.ac.jp)をご覧ください.
 
-This is a publication list of UTokyo Hori-Fujimoto Laboratory.
 Our official website is [here](http://hflab.k.u-tokyo.ac.jp).
